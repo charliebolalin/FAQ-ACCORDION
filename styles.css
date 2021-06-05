@@ -135,6 +135,12 @@ body {
   transform: translateY(-50%) rotate(0.5turn);
 }
 
+.box {
+  position: absolute;
+  top: 42%;
+  left: -24%;
+}
+
 .heading-container {
   font-weight: 900;
 }
